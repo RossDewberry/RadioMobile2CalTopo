@@ -1,0 +1,22 @@
+Credits
+=======
+
+This application was built using the following open-source libraries:
+
+- PyQt5 – GUI toolkit (https://riverbankcomputing.com/software/pyqt/)
+- NumPy – Numerical computing (https://numpy.org/)
+- Pillow – Image processing (https://python-pillow.org/)
+- Rasterio – Geospatial raster I/O (https://rasterio.readthedocs.io/)
+- PROJ – Coordinate transformations (https://proj.org/)
+- PyInstaller – Packaging tool for Windows executables (https://pyinstaller.org/)
+
+Input Compatibility:
+--------------------
+This tool is designed to work with output files from the **Radio Mobile** software
+by VE2DBE. More information can be found at:
+
+https://www.ve2dbe.com/english1.html
+
+Developer:
+----------
+Created by Ross Dewberry with assistance from OpenAI's ChatGPT.
